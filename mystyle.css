@@ -1,0 +1,17 @@
+<style>
+        dt {
+            font-style: italic;
+        }
+
+        h1 {
+            font-family: Impact;
+            background-color: #87CEEB;
+            text-align: center;
+        }
+
+        #contents {
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+</style>
